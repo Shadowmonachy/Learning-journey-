@@ -47,8 +47,8 @@ Here I'll upload small practice projects and assignments related to:
 
 ## Connect With Me
 
-- **Email**: [your email here]
+- **Email**: [cullilmooki@gmail.com]
 - **LinkedIn**: [LinkedIn profile link]
-- **GitHub**: [Your GitHub link]
+- **GitHub**: [https://github.com/Shadowmonachy]
 
 Thanks for checking out my progress!
