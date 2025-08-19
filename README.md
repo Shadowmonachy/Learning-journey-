@@ -1,27 +1,28 @@
 # Learning-journey-
-Tracking my progress in software dev and cybersecurity
+Tracking my progress in Network design/administration ,cybersecurity and python 
 # My Learning Journey
 
-Hi, I’m cullil! I'm on a mission to become a skilled software developer and cybersecurity professional. This repo documents my progress, projects, certificates, and learning milestones.
+Hi, I’m cullil! I'm on a mission to become a skilled poython,cybersecurity and network  professional. This repo documents my progress, projects, certificates, and learning milestones.
 
 ---
 
 ## Current Focus
 
-- **Cybersecurity** (CompTIA, Net-Camp)
-- **Software Development** (CS50 by Harvard, WeThinkCode Bootcamp - pending application)
+- **Cybersecurity** (Google cybersecurity certificate)
+- **Programming language** (Python bootcamp by Jose portilla,Pierian Training)
 - **AI & Machine Learning** (AI for Everyone by Andrew Ng, other AI certs)
-
----
+- **IT Diploma** (Network design & Administratoion at CTU training solutions)
 
 ## Certifications (Completed or In Progress)
 
-- [ ] CompTIA Cybersecurity
-- [ ] Net-Camp Cybersecurity Certificate
+- [ ] Google Cybersecurity Certificate
+- [ ] CompTiA Network + Certificate
 - [ ] AI for Everyone – Andrew Ng
-- [ ] CS50: Introduction to Computer Science – Harvard
-- [ ] AI & Automation Certificates
-- [ ] WeThinkCode (Bootcamp – planning to apply)
+- [ ] Implementing and Administering Cisco Solutions (CCNA)
+- [ ] Python automation 
+- [ ] Palo Alto Networks Cybersecurity certificate
+- [ ] TRyHackme practicals Redteam Skills 
+- [ ] LetsDefend bluebteam Skills
 
 ---
 
@@ -29,18 +30,18 @@ Hi, I’m cullil! I'm on a mission to become a skilled software developer and cy
 
 Here I'll upload small practice projects and assignments related to:
 - Python scripting
-- Web development
+- Network security 
 - Secure coding & penetration testing
 - AI/ML demos
-
+-Lab/Network setup
+-security audits 
 ---
 
 ## Goals
 
-- [ ] Complete all listed certifications
-- [ ] Get into WeThinkCode
+- [ ] Complete all listed certifications   
 - [ ] Build 3-5 quality projects and upload them here
-- [ ] Apply for entry-level positions or internships in software/cybersecurity
+- [ ] Apply for entry-level positions or internships in IT/cybersecurity
 - [ ] Contribute to open-source projects
 
 ---
