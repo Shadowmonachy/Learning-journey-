@@ -34,7 +34,9 @@ Here I'll upload small practice projects and assignments related to:
 - Secure coding & penetration testing
 - AI/ML demos
 -Lab/Network setup
--security audits 
+-security audits
+## Track Progress here
+-Security Audit Checklist(https://github.com/Shadowmonachy/Learning-journey-/issues/1#issue-3336069594)
 ---
 
 ## Goals
